@@ -54,13 +54,13 @@ MultiPercentageKPI é um visual customizado revolucionário para Power BI que tr
 
 **📦 Versão Atual: 1.0.1**
 
-[📥 Download MultiPercentageKPI.pbiviz](dist/visual.pbiviz)
+[📥 Download MultiPercentageKPI.pbiviz](MultiPercentageKPI.pbiviz)
 
 *Tamanho: ~200KB | Compatibilidade: Power BI Desktop/Service/Mobile*
 
 ## 🛠️ Como Instalar
 
-1. Baixe o arquivo `visual.pbiviz` clicando no botão acima
+1. Baixe o arquivo `MultiPercentageKPI.pbiviz` clicando no botão acima
 2. Abra o Power BI Desktop
 3. Vá em: **Arquivo → Importar → Visual do arquivo**
 4. Selecione o arquivo baixado
